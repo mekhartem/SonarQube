@@ -18,7 +18,7 @@
         <java.version>17</java.version>
         <sonar.host.url>http://sonarqube:9000</sonar.host.url>
         <sonar.login>admin</sonar.login>
-        <sonar.password>Qaz240903</sonar.password>
+        <sonar.password></sonar.password>
     </properties>
 
     <dependencies>
